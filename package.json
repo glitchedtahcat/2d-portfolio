@@ -1,6 +1,6 @@
 {
-  "name": "2d-portfolio-kaboom",
-  "private": true,
+  "name": "2d-portfolio",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
